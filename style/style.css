@@ -1,0 +1,38 @@
+.body {
+  background-color: #006D4F;
+  color: white;
+}
+.input {
+  margin: 20px 0px;
+}
+.title {
+  margin: 40px 0px;
+}
+.show-preview {
+  margin: 10px;
+  border: none;
+  background: #EFEFEF;
+  color: black;
+}
+.show-image {
+  height: 40%;
+  margin-left: -15px;
+  float: left;
+}
+.details-btn {
+  float: right;
+}
+.summary-style {
+  margin-left: -100px;
+}
+.details-image {
+  height: 50%;
+  float: left;
+}
+.display-right {
+  float: right;
+}
+.character-image {
+  height: 200px;
+  float: left;
+}
